@@ -1,0 +1,6 @@
+{
+  "name": "NetGuard - Network Monitoring & Cybersecurity Dashboard",
+  "description": "A practical cybersecurity network monitoring dashboard featuring authentication concepts, rigorous input validation, automated security checks, SIEM audit logging, cyber threat awareness, and an exportable GitHub project submission kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
